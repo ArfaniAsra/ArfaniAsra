@@ -52,3 +52,11 @@ I'm on a continuous learning spree! Currently, I'm diving deep into RESTfulAPI, 
 -->
 Feel free to explore my repositories, drop me a message, or connect if you share a passion for both web development and data exploration! 🌐📈
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/ArfaniAsra">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArfaniAsra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArfaniAsra&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+
