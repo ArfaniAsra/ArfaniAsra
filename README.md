@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ArfaniAsra/ArfaniAsra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey there! 👋
+# I'm Muhammad Arfani Asra
+## FullStack Web Developer and Data Enthusiast 🚀📊
+
+Welcome to my GitHub universe! I wear two hats: crafting sleek web applications and unraveling insights from complex datasets. Here's a glimpse into my diverse skill set:
+
+## 💻 Tech Stack
+
+- **Frontend**: HTML & CSS, React
+- **Backend**: Node.js, Express
+- **Database**: MySQL, PostgreSQL, MongoDB
+- **Data Analysis**: Python, Pandas, NumPy
+- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Tools**: Git, Docker, Jupyter
+- **Cloud**: AWS
+
+<!--
+## 🚀 Projects
+
+Dive into a blend of my projects:
+
+1. [Web Project One](link-to-web-project-one) - Brief description.
+2. [Web Project Two](link-to-web-project-two) - Brief description.
+3. [Data Project One](link-to-data-project-one) - Brief description.
+4. [Data Project Two](link-to-data-project-two) - Brief description.
+-->
+## 🌱 Currently Exploring
+
+I'm on a continuous learning spree! Currently, I'm diving deep into RESTfulAPI, MERN Stack, and exploring advanced topics in data science like Natural Language Processing (NLP) and reinforcement learning.
+
+## 👯‍♂️ Let's Connect!
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/arfaniasra/)
+<!--
+- **Portfolio**: [Your Portfolio Website](https://www.your-portfolio.com/)
+- **Blog**: [Your Tech Blog](https://www.your-techblog.com/)
+- **Kaggle**: [Your Kaggle Profile](https://www.kaggle.com/your-kaggle-username)
+-->
+Feel free to explore my repositories, drop me a message, or connect if you share a passion for both web development and data exploration! 🌐📈
+
