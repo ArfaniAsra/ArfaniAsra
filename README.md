@@ -21,14 +21,12 @@ Welcome to my GitHub universe! I wear two hats: crafting sleek web applications 
 ## 💻 Tech Stack
 
 - **Frontend**: HTML & CSS, React
-- **Backend**: Node.js, Express
+- **Backend**: Node.js, Express, Laravel
 - **Database**: MySQL, PostgreSQL, MongoDB
-<!--
 - **Data Analysis**: Python, Pandas, NumPy
-- **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Tools**: Git, Docker, Jupyter, Google Collab
+- **Data Visualization**: Matplotlib, Seaborn
+- **Tools**: Git, Docker, Jupyter, Google Collab, Figma
 - **Cloud**: AWS
--->
 
 <!--
 ## 🚀 Projects
@@ -42,7 +40,7 @@ Dive into a blend of my projects:
 -->
 ## 🌱 Currently Exploring
 
-I'm on a continuous learning spree! Currently, I'm diving deep into RESTfulAPI, MERN Stack, and exploring advanced topics in data science like Natural Language Processing (NLP) and reinforcement learning.
+I'm on a continuous learning spree! Currently, I'm diving deep into RESTfulAPI and MERN Stack, and exploring topics in data science like Deep Learning, Natural Language Processing (NLP) and reinforcement learning.
 
 ## 👯‍♂️ Let's Connect!
 
