@@ -12,21 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey there! 👋
-# I'm Muhammad Arfani Asra
-## FullStack Web Developer and Data Enthusiast 🚀📊
+### Hey there! 👋 I'm...
+# Muhammad Arfani Asra
+### 🚀📊 FullStack Web Developer and Data Enthusiast
 
-Welcome to my GitHub universe! I wear two hats: crafting sleek web applications and unraveling insights from complex datasets. Here's a glimpse into my diverse skill set:
+Welcome to my GitHub universe! I wear two hats: crafting sleek web applications and unravelling insights from complex datasets. Here's a glimpse into my diverse skill set:
 
 ## 💻 Tech Stack
 
 - **Frontend**: HTML & CSS, React
 - **Backend**: Node.js, Express
 - **Database**: MySQL, PostgreSQL, MongoDB
+<!--
 - **Data Analysis**: Python, Pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Tools**: Git, Docker, Jupyter
+- **Tools**: Git, Docker, Jupyter, Google Collab
 - **Cloud**: AWS
+-->
 
 <!--
 ## 🚀 Projects
@@ -44,15 +46,14 @@ I'm on a continuous learning spree! Currently, I'm diving deep into RESTfulAPI, 
 
 ## 👯‍♂️ Let's Connect!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/arfaniasra/)
+- **LinkedIn**: [Muhammad Arfani Asra](https://www.linkedin.com/in/arfaniasra/)
 <!--
 - **Portfolio**: [Your Portfolio Website](https://www.your-portfolio.com/)
 - **Blog**: [Your Tech Blog](https://www.your-techblog.com/)
 - **Kaggle**: [Your Kaggle Profile](https://www.kaggle.com/your-kaggle-username)
 -->
-Feel free to explore my repositories, drop me a message, or connect if you share a passion for both web development and data exploration! 🌐📈
 
-### Github Statistic
+## 📊 Github Statistic
 <p align="left">
 <a href="https://github.com/ArfaniAsra">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArfaniAsra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -60,3 +61,4 @@ Feel free to explore my repositories, drop me a message, or connect if you share
 </a>
 </p>
 
+> Feel free to explore my repositories, drop me a message, or connect if you share a passion for both web development and data exploration! 🌐📈
