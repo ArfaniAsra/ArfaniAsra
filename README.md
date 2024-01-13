@@ -44,6 +44,7 @@ I'm on a continuous learning spree! Currently, I'm diving deep into RESTfulAPI a
 
 ## 👯‍♂️ Let's Connect!
 
+- **Email**: [arfani152@gmail.com](arfani152@gmail.com)
 - **LinkedIn**: [Muhammad Arfani Asra](https://www.linkedin.com/in/arfaniasra/)
 <!--
 - **Portfolio**: [Your Portfolio Website](https://www.your-portfolio.com/)
