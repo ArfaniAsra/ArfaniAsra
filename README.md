@@ -21,7 +21,7 @@ Welcome to my GitHub universe! I wear two hats: crafting sleek web applications 
 ## 💻 Tech Stack
 
 - **Frontend**: HTML & CSS, React
-- **Backend**: Node.js, Express, Laravel
+- **Backend**: Node.js, Express, Java/Grails/Spring
 - **Database**: MySQL, PostgreSQL, MongoDB
 - **Data Analysis**: Python, Pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn
